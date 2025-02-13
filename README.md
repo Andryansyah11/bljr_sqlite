@@ -1,5 +1,5 @@
 # belajar_sqlite
-![Deskripsi](images/add.png)
+![Deskripsi](lib/images/add.png)
 
 
 A new Flutter project.
