@@ -1,4 +1,5 @@
 # belajar_sqlite
+![Deskripsi](lib/images/dashboard.png)
 ![Deskripsi](lib/images/add.png)
 
 
